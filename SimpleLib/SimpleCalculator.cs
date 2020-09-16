@@ -5,7 +5,7 @@ namespace SimpleLib
   {
     public int Sum(int a, int b)
     {
-      return a + b + 1;
+      return a + b;
     }
 
     public int Sub(int a, int b)
