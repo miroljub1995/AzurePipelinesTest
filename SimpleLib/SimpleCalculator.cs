@@ -7,5 +7,10 @@ namespace SimpleLib
     {
       return a + b + 1;
     }
+
+    public int Sub(int a, int b)
+    {
+      return a - b;
+    }
   }
 }
